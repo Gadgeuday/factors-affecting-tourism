@@ -16,8 +16,6 @@ The aim of this research work is to study the various factors which affects the 
 * The Blogs have been scraped for Karnataka and Rajasthan from https://www.travelblog.org and were divided into statements.Now if any of the above collected keyword is present in any of these statements than those statements are singled out.
 * The above trained model has been used to classify the statements.
 
-# work left.....
-* Analysing the data, checking the consistency of the trends and making some inference out of it.
- 
+
 
 
